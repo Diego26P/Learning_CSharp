@@ -1,0 +1,39 @@
+Escreva um programa que imprima todos os números inteiros de 1 a 100.
+
+Escreva um programa que calcule a média de um conjunto de números inteiros fornecidos pelo usuário.
+
+Escreva um programa que verifique se um número é par ou ímpar.
+
+Escreva um programa que imprima todos os números inteiros de 1 a 100, com exceção dos múltiplos de 3.
+
+Escreva um programa que calcule a soma dos dígitos de um número inteiro dado.
+
+Escreva um programa que imprima todos os números de Fibonacci até um determinado limite.
+
+Escreva um programa que verifique se um número é primo.
+
+Escreva um programa que converta uma temperatura dada em Celsius para Fahrenheit.
+
+Escreva um programa que determine o maior número em um array de números inteiros.
+
+Escreva um programa que calcule o fatorial de um número inteiro dado.
+
+Escreva um programa que determine se uma palavra é um palíndromo.
+
+Escreva um programa que calcule a potência de um número dado usando a recursão.
+
+Escreva um programa que imprima todas as permutações de uma string dada.
+
+Escreva um programa que calcule a série de Fibonacci usando recursão.
+
+Escreva um programa que leia uma string e determine se ela é um número inteiro ou não.
+
+Escreva um programa que leia uma string e determine se ela é um número decimal ou não.
+
+Escreva um programa que leia uma string e determine se ela é um número inteiro ou decimal.
+
+Escreva um programa que leia uma string e determine se ela é uma data válida ou não.
+
+Escreva um programa que determine o número de vezes que uma determinada palavra ocorre em uma string dada.
+
+Escreva um programa que determine se um número dado é perfeito ou não.

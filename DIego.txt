@@ -1,0 +1,6 @@
+git config --global user.name "Diego26P"
+
+git config --global user.email "diegoflamengista3@gmail.com"
+
+
+git push
